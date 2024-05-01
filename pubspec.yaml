@@ -1,7 +1,7 @@
 name: shared_preferences_module
 description: "this module is used to create shared_preferences module for juneflow."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/shared_preferences_module
 
 version: 1.0.0
 
